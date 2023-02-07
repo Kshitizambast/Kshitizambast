@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kshitizambast
 - 👀 I’m interested in full stack development
-- 🌱 I’m currently learning fastapi
-- 💞️ I’m looking to collaborate on v8
+- 🌱 I’m currently learning solana, etherium and web3
+- 💞️ I’m looking to collaborate on web3 consumer and mobile application
 - 📫 How to reach me ...
 
 <!---
